@@ -1,0 +1,37 @@
+body {
+    font-size: 1rem;
+    padding: 2%;
+}
+
+header {
+    text-align: center;
+    font-size: 2rem;
+    background-color: beige;
+}
+
+h1 {
+    text-align: left;
+    font-size: 1.2rem;
+    text-decoration: underline;
+}
+
+.box1 {
+background-color: gray;
+}
+
+.box2 {
+background-color: gray;
+}
+
+.border > p {
+    border: 4PX solid gray;
+}
+
+p.center  {
+    
+    border: 2px solid black; 
+    padding: 10px; 
+    text-align: left; padding-left: 2%;         
+    margin-left: 10%;
+    margin-right: 10%;
+}
